@@ -19,6 +19,8 @@
 
 ![Library folder in Obsidian showing folders and javascript files](assets/images/obsidianmd-stack-used-libraries.PNG)
 
-[^1]: https://discord.com/channels/686053708261228577/694233507500916796/712771272039202898
-[^2]: https://discord.com/channels/686053708261228577/864046194195431425/864065699857170442
-[^3]: https://help.obsidian.md/Licenses+%26+add-on+services/Obsidian+Sync#Is+the+end-to-end+encryption+strong
+[^1]: [Message from a Discord server, get the invite here: https://obsidian.md/community](https://discord.com/channels/686053708261228577/694233507500916796/712771272039202898)
+
+[^2]: [Message from a Discord server (2), get the invite here: https://obsidian.md/community](https://discord.com/channels/686053708261228577/864046194195431425/864065699857170442)
+
+[^3]: [Obsidian Sync - Is the end to end encryption strong?](https://help.obsidian.md/Licenses+%26+add-on+services/Obsidian+Sync#Is+the+end-to-end+encryption+strong)
