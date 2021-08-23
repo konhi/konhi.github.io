@@ -1,4 +1,4 @@
-# What is used in Obsidian?
+# 🔨 What tools and libraries are used in Obsidian?
 - [TypeScript](https://github.com/microsoft/TypeScript) compiled to pure JavaScript, no frameworks[^1]
 - [Electron](https://github.com/electron/electron): cross-platform desktop app using web technologies
 - [Capacitor](https://github.com/ionic-team/capacitor): cross-platform mobile apps using web technologies[^2]
@@ -17,7 +17,10 @@
 - [pdf.js](https://github.com/mozilla/pdf.js): PDF viewer
 - [reveal.js](https://github.com/hakimel/reveal.js): presentations
 
+
 ![Library folder in Obsidian showing folders and javascript files](assets/images/obsidianmd-stack-used-libraries.PNG)
+
+---
 
 [^1]: [Message from a Discord server, get the invite here: https://obsidian.md/community](https://discord.com/channels/686053708261228577/694233507500916796/712771272039202898)
 
