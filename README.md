@@ -4,6 +4,7 @@
 - [🐦 @konhi_ - Twitter](https://twitter.com/konhi_)
 - 🤖 `konhi#1588` - [Discord](https://discord.com/)
 - [📧 hello.konhi@gmail.com](mailto:hello.konhi@gmail.com)
+- 📜 [my personal rss feed](https://konhi.me/my-rss/)
 
 # 📖 Articles
 - [🔨 What tools and libraries are used in Obsidian?](obsidian-stack.md)
