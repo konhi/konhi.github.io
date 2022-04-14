@@ -1,7 +1,7 @@
 # 👋 Heya! I'm Jan
 ![16 years old](https://img.shields.io/badge/-%F0%9F%A7%81%2016%20years%20old%20-pink?style=for-the-badge) ![Programming Student](https://img.shields.io/badge/-%F0%9F%91%A8%E2%80%8D%F0%9F%8E%93%20programming%20student%20(2/5%20year)-blueviolet?style=for-the-badge) ![Discord](https://img.shields.io/badge/konhi%231588-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white) ![E-mail](https://img.shields.io/badge/-%F0%9F%93%A7%20hello.konhi%40gmail.com-9cf?style=for-the-badge)
 
-I love building tools (especially related to education) for other people. Always happy to hear from you! 💕
+I love building tools (especially related to education) for other people. Always happy to hear from you - feel free to contact me via e-mail, Discord or Twitter! 💕
 
 ## 🎒 Elektron++
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/githubactions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -9,13 +9,13 @@ I love building tools (especially related to education) for other people. Always
 With other students, we're developing [cool things](https://github.com/ElektronPlus) for our school.
 
 #### General
-- [📱 App for students](https://github.com/ElektronPlus/Elektron-App)
+- [🚌 Poland's Public Transport API](https://github.com/konhi/poland-public-transport-api)
+- [🔌 IoT-based smart energy consumption monitor](https://github.com/konhi/school-iot-contest)
 - [🎮 ForgeMC, Minecraft community for students](https://github.com/ForgeMC)
 - [📝 My personal school assignments](https://github.com/konhi/personal-school-assignments)
 
 #### Discord
 - [🤖 Discord Bots](https://github.com/ElektronPlus/discord)
-- [🎵 Song On Request](https://github.com/ElektronPlus/school-song-on-request)
 - [📰 School News to Discord](https://github.com/ElektronPlus/zseis-news)
 
 ## 🃏 Frekwencja
@@ -42,8 +42,10 @@ I use [Obsidian](https://obsidian.md/) as note-taking, journaling, creativity an
 ## ✨ Other
 ![Polish Native](https://img.shields.io/badge/%F0%9F%87%B5%F0%9F%87%B1Polish-native-blue?style=for-the-badge) ![English Conversational](https://img.shields.io/badge/%F0%9F%87%AC%F0%9F%87%A7English-conversational-blue?style=for-the-badge) ![German Beginner](https://img.shields.io/badge/%F0%9F%87%A9%F0%9F%87%AAGerman-beginner-blue?style=for-the-badge)
 
-- [👨‍🎨 My graphic designs](https://dribbble.com/konhi)
+- [👨‍🎨 Sometimes I try to design!](https://dribbble.com/konhi)
+- [⏰ My programming stats (WakaTime)](https://wakatime.com/@konhi)
 - [🎮 My League of Legends profile](https://u.gg/lol/profile/eun1/qratos1/overview)
+
 
 # 🔗 Links
 - [🐱‍💻 @konhi - GitHub](https://github.com/konhi)
